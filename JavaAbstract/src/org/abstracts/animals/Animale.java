@@ -1,6 +1,6 @@
 package org.abstracts.animals;
 
-public abstract class Animal {
+public abstract class Animale {
 	
 	public void dormi() {
 		System.out.println("Zzzzzzzz");
